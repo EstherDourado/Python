@@ -1,0 +1,2 @@
+#Faça um programa que pergunte o salário de um funcionario e calcule o valor do seu aumento
+#para salarios superiores a 1.250,00, calcule um aumento de 10% para salarios inferiores ou iguais, o aumento é de 15%

@@ -1,0 +1,19 @@
+
+nota1 = (print(float(input('Digite sua primeira nota: ')))
+nota2 = (print(float(input('Digite sua segunda nota: ')))
+soma = nota1 + nota2
+
+if soma < 5.0:
+    print('Você foi reprovado')
+elif soma >= 5.0 <= 6.9:
+    print('Você ficou de recuperação')
+elif soma > 7.0:
+    print('Você foi aprovado')
+
+
+ERRO do exercicio 40	
+	nota1 = print(float(input('Digite sua primeira nota: ')))
+	nota2 = print(float(input('Digite sua segunda nota: ')))
+
+motivo: input já faz o papel do print, ele serve para o usuario digitar algum
+valor que esta pedindo, e o print apenas retorna alguma coisa na tela do usuario
